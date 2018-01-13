@@ -39,3 +39,7 @@ figcaption {
 }
 
 /* ID Selector (apply to one unique element per page) */
+
+#logo { /* sleect elements with id="logo" */
+  background: : aqua;
+}
