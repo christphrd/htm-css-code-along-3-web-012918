@@ -1,0 +1,18 @@
+/* This
+is a comment! */
+
+/* CSS Syntax:
+
+selector {
+  property: value;
+  property: value;
+}
+
+*/
+
+/* Tyle Selector */
+
+p {/* select all <p> */
+  font-size: 1em; /* 16px (exact), ?pt(not always the same so shy away), 100%(relative), 1em(relative width of letter m) */
+  line-height: 1.5em;
+}
